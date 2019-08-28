@@ -7,69 +7,66 @@ body{
 }
 
 header {
-    background-color: #ebebeb;
     margin: 10px;
-    padding: 30px;
+    padding: 25px;
+    background-color: #ebebeb;
     text-align: center;
 }
 
 nav {
-    background-color: #ebebeb;
     margin: 10px;
-    padding: 30px;
+    padding: 25px;
+    background-color: #ebebeb;
     text-align: center;
 }
 
 section {
-    background-color: #ebebeb;
-    margin-bottom: 10px;
-    margin-left: 10px;
-    margin-top: 15px;
-    width: 495px;
+    margin: 10px;
+    margin-bottom: 20px;
     padding: 20px;
+    background-color: #ebebeb;
+    width: 495px;
     text-align: center;
     position: right;
     float: left;
 }
 
 aside {
-    background-color: #ebebeb;
-    margin-right: 10px;
-    margin-top: 15px;
-    margin-bottom: 0px;
-    width: 260px;
+    margin: 10px;
+    margin-bottom: 20px;
     padding: 20px;
-    height: 300px;
+    width: 250px;
+    height: 185px;
+    background-color: #ebebeb;
     text-align: center;
     float: right;
 }
 
 article {
-    background-color: #777;
     margin: 10px;
-    margin-top: 20px;
-    padding: 30px;
+    padding: 10px;
+    background-color: #777;
     text-align: center;
 }
 
 h1 {
-    background-color: #ebebeb;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
+    background-color: #ebebeb;
     text-align: center;
 }
 
 p {
-    background-color: #ebebeb;
     margin: 10px;
-    padding: 20px;
+    padding: 10px;
+    background-color: #ebebeb;
     text-align: center;
 }
 
 footer {
+    margin: 10px;
+    padding: 25px;
     background-color: #ebebeb;
-    margin: auto;
-    padding: 30px;
     text-align: center;
     overflow: auto;
     clear: both;
